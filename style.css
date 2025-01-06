@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.container {
+    background-color: beige;
+    padding: 20px;
+}
+
+.section1 {
+    text-align: center;
+    background-color: cadetblue;
+    margin: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.section1 h1{
+    padding: 10px;
+}
+
+.section2 {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.Image{
+    background-color: cadetblue;
+    width: 200px;
+    height: 210px;
+    text-align: center;
+    padding: 10px;
+}
+
